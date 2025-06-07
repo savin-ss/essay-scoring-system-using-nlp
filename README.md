@@ -40,3 +40,8 @@ This project is a web-based NLP system designed to automatically analyze and sco
 ```bash
 git clone https://github.com/savin-ss/nlp-essay-scoring.git
 cd nlp-essay-scoring
+
+## 📸 Output Screenshot
+
+![Essay Scoring Output](screenshot/screenshot.png)
+
