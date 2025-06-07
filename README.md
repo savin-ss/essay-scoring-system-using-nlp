@@ -8,7 +8,7 @@
 ## 📘 Overview
 This project is a web-based NLP system designed to automatically analyze and score essay texts based on linguistic features such as coherence and vocabulary. It was developed using React and TypeScript for the frontend, and Compromise NLP for real-time analysis.
 
-![Overview Output](https://raw.githubusercontent.com/savin-ss/nlp-essay-scoring/main/assets/output1.png)
+![Overview Screenshot](https://raw.githubusercontent.com/savin-ss/nlp-essay-scoring/8441d2ea878729a09e681fff78ee838a3d524eca/assests/Screenshot%202025-06-07%20200125.png)
 
 ## 🧠 Key Features
 - Real-time essay analysis with immediate feedback
