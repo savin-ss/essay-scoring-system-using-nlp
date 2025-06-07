@@ -43,7 +43,6 @@ cd nlp-essay-scoring
 
 ## 📸 Output Screenshot
 
-![Essay Scoring Output]
-![Screenshot 2025-06-07 200125](https://github.com/user-attachments/assets/1c0b80ca-b4d4-47a3-995e-33f4e9887627)
-![Screenshot 2025-06-07 200508](https://github.com/user-attachments/assets/242f5735-cc09-4305-bf19-5ac233af6b49)
+![Essay Scoring Output 1](https://raw.githubusercontent.com/savin-ss/nlp-essay-scoring/main/assets/output1.png)
+![Essay Scoring Output 2](https://raw.githubusercontent.com/savin-ss/nlp-essay-scoring/main/assets/output2.png)
 
