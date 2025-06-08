@@ -39,9 +39,16 @@ This project is a web-based NLP system designed to automatically analyze and sco
 
 ![Scoring Breakdown Visualization](https://raw.githubusercontent.com/savin-ss/nlp-essay-scoring/8441d2ea878729a09e681fff78ee838a3d524eca/assests/Screenshot%202025-06-07%20200508.png)
 
-
 ## 🎮 Usage Instructions
 1. **Clone the repo**
 ```bash
 git clone https://github.com/savin-ss/nlp-essay-scoring.git
 cd nlp-essay-scoring
+
+
+# 2. Setup and run app (in a new terminal)
+cd ../frontend
+npm install
+npm start
+
+# app runs on default port 3000
